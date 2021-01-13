@@ -1,5 +1,5 @@
 # reactReduxDemo
-In this Repository demo use Redux Middlerware (Thunk &amp; Saga) as well as demo of testing(jest)for Saga. 
+In this Repository demo use Redux Middlerware (Thunk &amp; Saga) as well as demo of Jest test of Saga. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
